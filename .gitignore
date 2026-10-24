@@ -17,3 +17,7 @@ dist/
 *.keystore
 compile_commands.json
 *.log
+**/.flutter-plugins*
+**/GeneratedPluginRegistrant.*
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
